@@ -1,4 +1,4 @@
-<h1 align="center">Jaehyeon Park (Jeyon) </h1>
+<h1 align="center">Jaehyeon Park (wimon) </h1>
 
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
