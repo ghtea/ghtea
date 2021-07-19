@@ -7,6 +7,4 @@
 
 [![Notion](http://img.shields.io/badge/-Notion-111111?style=flat-square&logo=notion&link=https://www.notion.so/Development-25af2a3ac82949b3a7ba7d6db9e13778)](https://www.notion.so/Development-25af2a3ac82949b3a7ba7d6db9e13778)
 
-![wiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghtea&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghtea&layout=compact)](https://github.com/ghtea/github-readme-stats)
