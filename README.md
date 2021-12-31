@@ -17,4 +17,4 @@
 ### personal projects
 - https://github.com/ghtea/chess-note
 - https://github.com/ghtea/portal-view
-check others in portfolic
+- check others in portfolic
