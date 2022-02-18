@@ -2,6 +2,7 @@
 
 - frontend developer since 2021. 6.
 
+### [Notion](https://beautiful-draw-02f.notion.site/Development-25af2a3ac82949b3a7ba7d6db9e13778)
 ### [Blog](https://velog.io/@vltea)
 
 ### languages, frameworks
