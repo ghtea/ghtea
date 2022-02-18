@@ -14,4 +14,4 @@
 
 ### personal projects
 - https://github.com/ghtea/chess-note (2021. 6.)
-- check others in portfolic
+- more
