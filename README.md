@@ -12,6 +12,6 @@
 - Tailwind CSS, Theme UI, styled-components, Sass
 - React Native
 
-[![ghtea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghtea&show_icons=true&count_private=true?hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![ghtea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghtea&show_icons=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghtea&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
