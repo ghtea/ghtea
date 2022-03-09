@@ -15,3 +15,6 @@
 ### personal projects
 - https://github.com/ghtea/chess-note (2021. 6.)
 - more
+
+![](https://github.com/ghtea/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ghtea/github-stats/blob/master/generated/languages.svg)
