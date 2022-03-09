@@ -12,9 +12,6 @@
 - Tailwind CSS, Theme UI, styled-components, Sass
 - React Native
 
-### personal projects
-- https://github.com/ghtea/chess-note (2021. 6.)
-- more
+[![ghtea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghtea&show_icons=true&count_private=true?hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/ghtea/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ghtea/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghtea&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
